@@ -1,3 +1,9 @@
+!!!Bugs: 
+1) Therefore, the Map mode in the application is not working.
+2) Currently, the application remembers the user (Firebase records user data upon authorization, such as email, name..), but it does not remember note data (MobX stores it locally). Edit mode is not working for now.
+3) Some problems with iOS  
+
+
 
 # Getting Started
 
