@@ -65,6 +65,7 @@ yarn-error.log
 # testing
 /coverage
 
+ios/GoogleService-Info.plist
 # Yarn
 .yarn/*
 !.yarn/patches
